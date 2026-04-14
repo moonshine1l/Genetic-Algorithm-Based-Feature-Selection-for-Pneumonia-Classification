@@ -63,6 +63,9 @@ Metrics:
 * Inference time
 * Number of features used
 
+  <img width="952" height="236" alt="image" src="https://github.com/user-attachments/assets/02b87fe2-b59c-4559-bad7-d7982842d13a" />
+
+
 ---
 
 ## 🌐 How the Web Application Works
