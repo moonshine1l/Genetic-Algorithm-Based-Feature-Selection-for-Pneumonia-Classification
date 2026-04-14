@@ -107,7 +107,8 @@ The GA should discover that only a **small subset of features** is required to c
 
 ```bash
 git clone https://github.com/moonshine1l/Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification.git
-cd Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification```
+cd Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification
+```
 
 Install required libraries:
 ```bash
