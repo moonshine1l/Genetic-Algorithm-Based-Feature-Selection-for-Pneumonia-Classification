@@ -60,6 +60,27 @@ Metrics:
 
 ---
 
+## 🌐 How the Web Application Works
+
+The Streamlit web interface allows users to interact with the trained model in a simple and intuitive way.
+
+1. The user uploads a chest X-ray image using the file uploader.
+2. After uploading, the image is displayed on the screen.
+3. The user clicks the **"Analyze Image"** button to start the analysis.
+4. The system processes the image through the following steps:
+   - ResNet18 extracts 512 deep features from the X-ray
+   - The Genetic Algorithm–selected subset of features is applied
+   - Logistic Regression predicts the probability of pneumonia
+5. The application displays:
+   - Final prediction (NORMAL or PNEUMONIA)
+   - Probability of pneumonia
+   - Confidence level
+   - Probability distribution for both classes
+6. Additional model information and a medical disclaimer are shown for transparency.
+
+This interface demonstrates how the optimized feature-selection pipeline can be used in a real-time diagnostic support tool.
+---
+
 ## 🗂 Dataset
 
 **Chest X-Ray Images (Pneumonia)**
