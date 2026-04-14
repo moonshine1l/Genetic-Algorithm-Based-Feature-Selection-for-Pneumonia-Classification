@@ -101,19 +101,21 @@ The GA should discover that only a **small subset of features** is required to c
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Project
+
+1. Download or clone this repository with all files:
 
 ```bash
-# 1. Extract features
-python extract_features.py
+git clone https://github.com/moonshine1l/Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification.git
+cd Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification
 
-# 2. Run genetic algorithm
-python ga_feature_selection.py
+Install required libraries:
+pip install -r requirements.txt
 
-# 3. Train final classifier
-python train_selected_features.py
-```
+Run the Streamlit application from the project folder:
+streamlit run app.py
 
+After running the command, the web interface will open in your browser where you can upload a chest X-ray image for pneumonia classification.
 ---
 
 ## 👥 Authors
@@ -124,17 +126,4 @@ python train_selected_features.py
 
 Nature Inspired Computing Project — 2026
 
----
 
-## 📚 References
-
-* ResNet paper (CVPR 2016)
-* Kaggle Pneumonia Dataset
-* Lecture notes on Nature Inspired Computing
-
----
-
-Если хочешь, дальше можем:
-
-* сделать **README под твой реальный код (по файлам репозитория)**,
-* или написать ещё **Report / Introduction / Methodology** на основе этого.
