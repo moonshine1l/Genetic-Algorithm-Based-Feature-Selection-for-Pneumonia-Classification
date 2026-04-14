@@ -92,7 +92,7 @@ The GA should discover that only a **small subset of features** is required to c
 
 ---
 
-⚠️ ##Important Notice
+## ⚠️ Important Notice
 
 This application is designed as a supportive tool for pneumonia detection and **does not replace professional medical diagnosis**.
 
