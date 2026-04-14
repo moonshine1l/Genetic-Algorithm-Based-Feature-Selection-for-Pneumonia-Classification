@@ -107,14 +107,16 @@ The GA should discover that only a **small subset of features** is required to c
 
 ```bash
 git clone https://github.com/moonshine1l/Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification.git
-cd Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification
+cd Genetic-Algorithm-Based-Feature-Selection-for-Pneumonia-Classification```
 
 Install required libraries:
+```bash
 pip install -r requirements.txt
-
+```
 Run the Streamlit application from the project folder:
+```bash
 streamlit run app.py
-
+```
 After running the command, the web interface will open in your browser where you can upload a chest X-ray image for pneumonia classification.
 ---
 
