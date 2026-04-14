@@ -3,6 +3,11 @@
 
 This project applies a Genetic Algorithm to select the most informative features extracted from chest X-ray images for pneumonia classification. Instead of using all 512 features produced by a pretrained ResNet18 model, the algorithm evolves optimal subsets of features that maximize classification accuracy while minimizing feature count. Using the Chest X-Ray Images (Pneumonia) dataset from Kaggle, we demonstrate that a compact, GA-selected feature set can achieve performance comparable to or better than using all features, while reducing computational cost and inference time.
 
+
+## 🖥 Web Application Interface
+<img width="1848" height="849" alt="image" src="https://github.com/user-attachments/assets/0fab36ca-94aa-4c6a-9745-b330b86c4d81" />
+
+
 ## 📌 Project Overview
 
 This project demonstrates how **Genetic Algorithms (GA)** can be used for **feature selection** to improve pneumonia classification from chest X-ray images.
