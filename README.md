@@ -123,9 +123,10 @@ After running the command, the web interface will open in your browser where you
 
 ## 👥 Authors
 
-* Amaliya Kharisova
+
 * Irina Napalkova
 * Muhammadjon Aslonov
+* Amaliya Kharisova
 
 Nature Inspired Computing Project — 2026
 
