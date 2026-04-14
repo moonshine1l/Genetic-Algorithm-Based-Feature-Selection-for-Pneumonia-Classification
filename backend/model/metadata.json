@@ -1,0 +1,11 @@
+{
+  "model_type": "LogisticRegression",
+  "feature_extractor": "ResNet18",
+  "feature_selection": "Genetic Algorithm",
+  "n_features_total": 512,
+  "n_features_selected": 242,
+  "feature_reduction_percent": 52.734375,
+  "accuracy": 0.8605769230769231,
+  "f1_score": 0.853112027622677,
+  "threshold_optimal": 0.35
+}
