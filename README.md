@@ -98,7 +98,7 @@ The GA should discover that only a **small subset of features** is required to c
 This application is designed as a supportive tool for pneumonia detection and **does not replace professional medical diagnosis**.
 
 While the model demonstrates high accuracy, there is always a small probability of error. The system should be used only as an assistance tool for doctors and medical specialists, not as an expert decision-maker.
-
+```
 ## 🛠 Tech Stack
 
 * Python
