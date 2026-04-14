@@ -159,6 +159,8 @@ Run the Streamlit application from the project folder:
 streamlit run app.py
 ```
 After running the command, the web interface will open in your browser where you can upload a chest X-ray image for pneumonia classification.
+
+
 ---
 
 ## 👥 Authors
