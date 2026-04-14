@@ -84,6 +84,9 @@ The Streamlit web interface allows users to interact with the trained model in a
 6. Additional model information and a medical disclaimer are shown for transparency.
 
 This interface demonstrates how the optimized feature-selection pipeline can be used in a real-time diagnostic support tool.
+
+<img width="1821" height="905" alt="image" src="https://github.com/user-attachments/assets/ad8acabd-38b5-4146-847b-f7648e41ff88" />
+
 ---
 
 ## 🗂 Dataset
